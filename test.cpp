@@ -1,0 +1,2 @@
+do static do
+static
